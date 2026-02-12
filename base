@@ -1,6 +1,9 @@
 # Case-study #1
 # Developers: Voronina A., Grishina D., Sankina A. 
 #
+
+import turtle
+
 def square(x,y,a,color): 
   turtle.up()
   turtle.setposition(x, y)
