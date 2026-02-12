@@ -45,6 +45,7 @@ def rtriangle(x, y, a, color):
     turtle.down()
     turtle.color(color)
     turtle.begin_fill()
+
     for i in range(3):
         turtle.forward(a)
         turtle.left(120)
