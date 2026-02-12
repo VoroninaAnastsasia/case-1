@@ -34,3 +34,16 @@ def right_triangle(x,y,a,color):
     turtle.forward(a * math.sqrt(2))
 
     turtle.end_fill()
+
+
+def rtriangle(x, y, a, color):
+    turtle.up()
+    turtle.setposition(x, y)
+    turtle.down()
+    turtle.color(color)
+    turtle.begin_fill()
+    for i in range(3):
+        turtle.forward(a)
+        turtle.left(120)
+
+    turtle.end_fill()
