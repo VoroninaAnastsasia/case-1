@@ -3,6 +3,7 @@
 #
 
 import turtle
+import math
 
 def square(x,y,a,color): 
   turtle.up()
