@@ -5,6 +5,9 @@
 import turtle
 import math
 
+screen = turtle.Screen()
+screen.screensize(600,600)
+
 def square(x,y,a,color): 
   turtle.up()
   turtle.setposition(x, y)
