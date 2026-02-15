@@ -110,3 +110,41 @@ def parall(x,y,a,b,color):
     turtle.left(120)
 
     turtle.end_fill()
+
+
+square(-585, 25, 110, "tomato")
+square(-425, 25, 110, "tomato")
+rectangle(-585, -85, 270, 60, "red")
+rectangle(-565, -165, 230, 80, "crimson")
+rectangle(-530, -230, 160, 65, "darkred")
+turtle.right(180)
+rtriangle(-410, -230, 80, "maroon")
+turtle.left(180)
+
+
+turtle.right(180)
+trapezoid(-290,370,80,"lightpink")
+turtle.right(300)
+rtriangle(-290,370,80,"hotpink")
+rtriangle(-510,370,80,"hotpink")
+turtle.left(240)
+rectangle(-590,90,200,100,"lightpink")
+square(-590,90,50,"lightpink")
+turtle.left(90)
+square(-390,90,50,"lightpink")
+rectangle(-590,190,50,10,"hotpink")
+turtle.right(90)
+rtriangle(-440,240,80,"hotpink")
+square(-370,250,20,"black")
+square(-500, 330, 30, "black")
+square(-360, 330, 30, "black")
+square(-500, 330, 20, "white")
+square(-360, 330, 20, "white")
+
+
+rtriangle(-575, -350, 80, "orchid")
+turtle.right(180)
+rtriangle(-535, -327, 80, "orchid")
+rtriangle(-535, -327, 40, "plum")
+turtle.right(180)
+rtriangle(-575, -350, 40, "plum")
