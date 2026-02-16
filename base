@@ -206,4 +206,4 @@ square(30,280,20,"white")
 right_triangle(-70, 230, 15, "olive")
 turtle.right(180)
 right_triangle(-55, 245, 15, "olive") 
-turtle.hideturtle()
+
