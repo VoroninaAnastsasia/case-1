@@ -150,6 +150,7 @@ turtle.right(180)
 rtriangle(-575, -350, 40, "plum")
 
 
+#Санкина Настя Дом
 square(400, 250, 200, "bisque3")
 rtriangle(400, 250, 200, "burlywood4")
 rectangle(470, 50, 60, 100, "darkkhaki")
@@ -164,7 +165,7 @@ square(375, 150, 20, "chocolate4")
 square(380, 155, 10, "yellow")
 
 
-
+#Санкина Настя Рыба
 turtle.left(90)
 rtriangle(480, -300, 90, "cadetblue3")
 square(440, -260, 13, "black")
