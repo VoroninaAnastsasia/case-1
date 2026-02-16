@@ -185,6 +185,7 @@ rtriangle(500, -235, 40, "darkorchid4")
 rtriangle(540, -232, 45, "darkorchid4")
 rtriangle(585, -229, 49, "darkorchid4")
 
+
 #Воронина Настя Самолет
 rectangle(-85,200,300,100,"lightblue")
 turtle.left(30)
