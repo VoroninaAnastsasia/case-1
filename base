@@ -152,6 +152,7 @@ rtriangle(-575, -350, 40, "plum")
 
 
 #Санкина Настя Дом
+turtle.setheading(0)
 square(400, 250, 200, "bisque3")
 rtriangle(400, 250, 200, "burlywood4")
 rectangle(470, 50, 60, 100, "darkkhaki")
