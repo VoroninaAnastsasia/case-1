@@ -7,6 +7,7 @@ import math
 
 screen = turtle.Screen()
 screen.screensize(600,600)
+turtle.speed(0)
 
 def square(x,y,a,color): 
   turtle.up()
