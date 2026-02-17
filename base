@@ -77,20 +77,20 @@ def rectangle(x, y, a, b, color):
     turtle.end_fill()
 
 
-def trapezoid(x, y, a, color):
+def trapezoid(x, y, a, b, c, d, color):
     turtle.up()
     turtle.setposition(x, y)
     turtle.down()
     turtle.color(color)
     turtle.begin_fill()
 
-    turtle.forward(300)  
+    turtle.forward(a)  
     turtle.left(120)      
-    turtle.forward(200)  
+    turtle.forward(b)  
     turtle.left(60)    
-    turtle.forward(100)  
+    turtle.forward(c)  
     turtle.left(60)      
-    turtle.forward(200)
+    turtle.forward(d)
 
     turtle.end_fill()
 
@@ -124,7 +124,7 @@ turtle.left(180)
 
 
 turtle.right(180)
-trapezoid(-290, 370, 80, "lightpink")
+trapezoid(-290, 370, 300, 200, 100, 200, "lightpink")
 turtle.right(300)
 rtriangle(-290, 370, 80, "hotpink")
 rtriangle(-510, 370, 80, "hotpink")
