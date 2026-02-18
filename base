@@ -244,3 +244,4 @@ square(145, -50, 50,"forestgreen")
 square(245, -50, 50,"forestgreen")
 
 turtle.hideturtle()
+turtle.done()
