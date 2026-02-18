@@ -167,7 +167,7 @@ square(375, 150, 20, "chocolate4")
 square(380, 155, 10, "yellow")
 
 
-#Санкина Настя Рыба
+#Санкина Настя Рыба  
 turtle.setheading(90)
 rtriangle(455, -180, 90, "cadetblue3")
 square(430, -135, 13, "black")
@@ -189,7 +189,7 @@ rtriangle(575, -110, 49, "darkorchid4")
 turtle.setheading(0)
 
 
-#Воронина Настя Самолетик
+#Воронина Настя Самолетик  
 turtle.setheading(0)
 rectangle(-85, 200, 300, 100, "lightblue")
 turtle.left(30)
@@ -212,7 +212,7 @@ turtle.right(180)
 right_triangle(-55, 245, 15, "maroon") 
 
 
-#Воронина Настя Черепашка
+#Воронина Настя Черепашка  
 turtle.setheading(0)
 rectangle(-105, -250, 350, 250, "darkgreen")
 square(-185, -80, 80, "green")
