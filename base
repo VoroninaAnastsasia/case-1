@@ -112,7 +112,7 @@ def parall(x, y, a, b, color):
 
     turtle.end_fill()
 
-
+#Гришина Дарья Сердечко
 square(-585, 25, 110, "tomato")
 square(-425, 25, 110, "tomato")
 rectangle(-585, -85, 270, 60, "red")
@@ -123,6 +123,7 @@ rtriangle(-410, -230, 80, "maroon")
 turtle.left(180)
 
 
+#Гришина Дарья Собачка
 turtle.right(180)
 trapezoid(-290, 370, 300, 200, 100, 200, "lightpink")
 turtle.right(300)
@@ -143,6 +144,7 @@ square(-500, 330, 20, "white")
 square(-360, 330, 20, "white")
 
 
+#Гришина Дарья Бантик
 rtriangle(-575, -350, 80, "orchid")
 turtle.right(180)
 rtriangle(-535, -327, 80, "orchid")
